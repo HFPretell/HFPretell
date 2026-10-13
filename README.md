@@ -19,6 +19,11 @@ Construyo la lógica de las aplicaciones, integrando reglas de negocio, persiste
 
 ### Herramientas
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,kali,postman,vscode,idea,eclipse,visualstudio)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/vmware" height="48" alt="VMware" />
+  <img src="https://cdn.simpleicons.org/wireshark" height="48" alt="Wireshark" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="48" alt="Nmap" />
+</p>
 
 🔐 Intereses
 
@@ -27,8 +32,6 @@ Construyo la lógica de las aplicaciones, integrando reglas de negocio, persiste
 - Análisis de vulnerabilidades y seguridad de aplicaciones web.
 - Arquitectura backend y buenas prácticas basadas en los principios SOLID.
 - Linux y Machine Learning (ML).
-  
-¡Mandame un DM y conectemos!
 
 
 ***Diseña. Construye. Cuestiona. Rompe. Refuerza. Evoluciona.***
