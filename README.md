@@ -19,7 +19,7 @@ Construyo la capa lógica de las aplicaciones, conectando reglas de negocio, per
 ### Tools & Environment
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,kali)
 
-🔐 Interests
+🔐 Intereses
 
 Desarrollo de APIs seguras y escalables.
 Análisis de vulnerabilidades y seguridad de aplicaciones web.
