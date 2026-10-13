@@ -5,7 +5,7 @@ Backend Developer| Pentesting | Java · Spring Boot · Node.js · Express.js · 
 *«Ninguna inteligencia artificial es omnisciente, ningún código es invulnerable y ninguna arquitectura puede anticipar todos los caminos del ingenio humano».*
 
 
-Construyo la capa lógica de las aplicaciones, conectando reglas de negocio, persistencia de datos y servicios mediante arquitecturas que priorizan la claridad, la mantenibilidad y el control. Me encuentro en constante aprendizaje para entender como funcionan los sistemas, identificar sus vulnerabilidades y aplicar buenas prácticas de desarrollo y seguridad desde el diseño.
+Construyo la lógica de las aplicaciones, integrando reglas de negocio, persistencia de datos y servicios mediante arquitecturas orientadas a la claridad, la mantenibilidad y la escalabilidad. Evalúo las decisiones técnicas considerando su impacto en el sistema, las necesidades del negocio y los costos asociados, buscando soluciones que equilibren calidad, eficiencia y sostenibilidad. Me encuentro en constante aprendizaje, profundizando en el funcionamiento interno de los sistemas, el análisis de vulnerabilidades y la aplicación de buenas prácticas de desarrollo y seguridad desde las primeras etapas del diseño.
 
 
 ## 🛠️ Tech Stack
