@@ -21,10 +21,10 @@ Construyo la capa lógica de las aplicaciones, conectando reglas de negocio, per
 
 🔐 Intereses
 
-Desarrollo de APIs seguras y escalables.
-Análisis de vulnerabilidades y seguridad de aplicaciones web.
-Arquitectura backend, buenas prácticas basado en principios SOLID.
-Linux y ML.
+- Desarrollo de APIs seguras y escalables.
+- Análisis de vulnerabilidades y seguridad de aplicaciones web.
+- Arquitectura backend y buenas prácticas basadas en los principios SOLID.
+- Linux y Machine Learning (ML).
 
 ¡Mandame un DM y conectemos!
 
