@@ -1,16 +1,32 @@
-## Hi there 👋
+👨‍💻 Hola, soy Hiroo.
 
-<!--
-**HFPretell/HFPretell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer| Pentesting | Java · Spring Boot · Node.js · Express.js · Kali Linux
 
-Here are some ideas to get you started:
+*«Ninguna inteligencia artificial es omnisciente, ningún código es invulnerable y ninguna arquitectura puede anticipar todos los caminos del ingenio humano».*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Construyo la capa lógica de las aplicaciones, conectando reglas de negocio, persistencia de datos y servicios mediante arquitecturas que priorizan la claridad, la mantenibilidad y el control. Me encuentro en constante aprendizaje para entender como funcionan los sistemas, identificar sus vulnerabilidades y aplicar buenas prácticas de desarrollo y seguridad desde el diseño.
+
+
+## 🛠️ Tech Stack
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=mysql)
+
+### Tools & Environment
+![My Skills](https://skillicons.dev/icons?i=git,github,docker,kali)
+
+🔐 Interests
+
+Desarrollo de APIs seguras y escalables.
+Análisis de vulnerabilidades y seguridad de aplicaciones web.
+Arquitectura backend, buenas prácticas basado en principios SOLID.
+Linux y ML.
+
+¡Mandame un DM y conectemos!
+
+
+***Diseña. Construye. Cuestiona. Rompe. Refuerza. Evoluciona.***
