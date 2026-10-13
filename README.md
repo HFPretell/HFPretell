@@ -22,7 +22,7 @@ Construyo la capa lógica de las aplicaciones, conectando reglas de negocio, per
 
 🔐 Intereses
 
-- Análisis de Negocios y levantamiento de requerimientos.
+- Análisis de negocios y levantamiento de requerimientos.
 - Desarrollo de APIs seguras y escalables.
 - Análisis de vulnerabilidades y seguridad de aplicaciones web.
 - Arquitectura backend y buenas prácticas basadas en los principios SOLID.
