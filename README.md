@@ -15,6 +15,7 @@ Construyo la capa lógica de las aplicaciones, conectando reglas de negocio, per
 
 ### Database
 ![My Skills](https://skillicons.dev/icons?i=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Tools & Environment
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,kali,postman) 
