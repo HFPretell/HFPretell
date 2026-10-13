@@ -10,14 +10,14 @@ Construyo la lógica de las aplicaciones, integrando reglas de negocio, persiste
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express)
 
-### Database
+### Bases de Datos
 ![My Skills](https://skillicons.dev/icons?i=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Tools & Environment
+### Herramientas
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,kali,postman,vscode,idea,eclipse,visualstudio)
 
 🔐 Intereses
