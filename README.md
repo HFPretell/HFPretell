@@ -34,4 +34,5 @@ Construyo la lógica de las aplicaciones, integrando reglas de negocio, persiste
 - Linux y Machine Learning (ML).
 
 
+
 ***Diseña. Construye. Cuestiona. Rompe. Refuerza. Evoluciona.***
