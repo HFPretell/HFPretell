@@ -17,7 +17,7 @@ Construyo la capa lógica de las aplicaciones, conectando reglas de negocio, per
 ![My Skills](https://skillicons.dev/icons?i=mysql)
 
 ### Tools & Environment
-![My Skills](https://skillicons.dev/icons?i=git,github,docker,kali)
+![My Skills](https://skillicons.dev/icons?i=git,github,docker,kali,postman) 
 
 🔐 Intereses
 
