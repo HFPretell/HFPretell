@@ -1,6 +1,6 @@
 👨‍💻 Hola, soy Hiroo.
 
-Backend Developer| Pentesting | Java · Spring Boot · Node.js · Express.js · Kali Linux
+Backend Developer| Pentesting 
 
 *«Ninguna inteligencia artificial es omnisciente, ningún código es invulnerable y ninguna arquitectura puede anticipar todos los caminos del ingenio humano».*
 
